@@ -2,7 +2,7 @@
 
 Computer Science - University of Limerick  
 Product Support Engineer Intern @ [Telnyx](https://telnyx.com)  
-[mikaeleramian.com](#) · [LinkedIn](#) · [GitHub](#)
+[Portfolio Website](mikaeleramian.com) · [LinkedIn](https://www.linkedin.com/in/mikael-eramian/)
 
 ---
 
@@ -13,10 +13,10 @@ Product Support Engineer Intern @ [Telnyx](https://telnyx.com)
 ---
 
 **Interests**
-- cybersecurity — actively learning, looking to move into the field
-- blockchain & crypto markets — interest in DeFi, market mechanics and tokenomics
-- calisthenics — training seriously, working towards advanced skills
-- video editing — hobby that occasionally becomes useful
+- cybersecurity - actively learning, looking to move into the field
+- blockchain & crypto markets - interest in DeFi, market mechanics and tokenomics
+- calisthenics - training seriously, working towards advanced skills
+- video editing - hobby that occasionally becomes useful
 
 ---
 
