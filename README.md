@@ -1,7 +1,8 @@
 # Mikael Eramian
 
-Computer Science - University of Limerick  
-Product Support Engineer Intern @ [Telnyx](https://telnyx.com)  
+Computer Science student - University of Limerick  
+Product Support Engineer Intern @ Telnyx
+
 [Portfolio Website](mikaeleramian.com) · [LinkedIn](https://www.linkedin.com/in/mikael-eramian/)
 
 ---
