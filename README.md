@@ -8,8 +8,7 @@ Product Support Engineer Intern @ Telnyx
 ---
 
 **Currently**
-- exploring cybersecurity -> working toward Google Cybersecurity Certificate
-- building projects with AI-assisted development workflows
+- building a home lab environment using Kali Linux and Metasploitable2 to practice penetration testing and vulnerability assessment
 
 ---
 
