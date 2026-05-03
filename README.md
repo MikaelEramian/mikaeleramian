@@ -9,6 +9,7 @@ Product Support Engineer Intern @ Telnyx
 
 **Currently**
 - building a home lab environment using Kali Linux and Metasploitable2 to practice penetration testing and vulnerability assessment
+
   [Home Lab Session 1](sessions/session-1-metasploitable2/notes.md)
 
 ---
