@@ -17,7 +17,6 @@ Product Support Engineer Intern @ Telnyx
 **Interests**
 - cybersecurity - actively learning, looking to move into the field
 - blockchain & crypto markets - interest in DeFi, market mechanics and tokenomics
-- calisthenics - training seriously, working towards advanced skills
 - video editing - hobby that occasionally becomes useful
 
 ---
@@ -25,11 +24,12 @@ Product Support Engineer Intern @ Telnyx
 **Stack**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MikaelEramian/MikaelEramian/blob/output/github-snake-dark.svg" />
